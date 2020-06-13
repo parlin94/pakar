@@ -1,0 +1,2 @@
+# pakar
+aplikasi sistem pakar
