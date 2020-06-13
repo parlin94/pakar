@@ -1,2 +1,2 @@
-# pakar
-aplikasi sistem pakar
+# pakerja
+ 
